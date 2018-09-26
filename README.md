@@ -3,7 +3,7 @@
 ## Conceptos de Node.js
 
 Aplicación con los coneptos de comandos en Node.js
-El ejemplo uyiliza las tablas de multiplicar
+El ejemplo utiliza las tablas de multiplicar
 
 Ejecutar el comando 
 
